@@ -1,2 +1,3 @@
-# picgo.img
-PicGO 图床
+# figure
+
+图床
